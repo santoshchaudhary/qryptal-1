@@ -1,5 +1,6 @@
 baseurl = "/"
 themesDir = "themes"
+publishDir = "docs"
 languageCode = "en-us"
 title = "Hugo Future Imperfect"
 theme = "hugo-future-imperfect"
