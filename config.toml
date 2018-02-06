@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://santoshchaudhary.github.io/qryptal-1/"
 themesDir = "themes"
 publishDir = "docs"
 languageCode = "en-us"
